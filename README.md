@@ -13,5 +13,5 @@ This repository contains a **step-by-step guide** to connect **Eclipse ADT (ABAP
 
 ## 🔗 Additional Resources
 - [YouTube Tutorial](https://youtu.be/pEY5I29pIak?si=g8H76GzqZ-okyzuI)  
-- [Author’s GitHub](https://github.com/iAnkitSinghK)  
-- [LinkedIn](https://www.linkedin.com/in/ankit-kumar-singh-185620322/)
+- [Author’s GitHub](https://github.com/iankitsinghk)  
+- [Author’s LinkedIn](https://www.linkedin.com/in/iankitsinghk)
